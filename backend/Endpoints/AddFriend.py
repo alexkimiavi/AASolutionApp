@@ -1,5 +1,5 @@
 from flask_restful import Resource
-
+from FirebaseConfig import FirebaseConfig
 
 """Post Request"""
 class AddFriend(Resource):
